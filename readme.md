@@ -1,5 +1,4 @@
-THIS IS A FORK AND HEAVILY MODIFIED (including the tutorial) - MAIN CREDIT GOES TO HAIVISION https://github.com/Haivision and then to belabox
-https://github.com/BELABOX
+MAIN CREDIT FOR SRT BONDING GOES TO HAIVISION https://github.com/Haivision and then to belabox https://github.com/BELABOX
 
 Table of Content
 =====================

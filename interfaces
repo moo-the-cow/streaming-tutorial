@@ -1,0 +1,44 @@
+# interfaces(5) file used by ifup(8) and ifdown(8)
+# Include files from /etc/network/interfaces.d:
+source-directory /etc/network/interfaces.d
+
+# usb0 is normally the L4T virtual Ethernet over micro USB
+#
+# we disable it by default in the tutorial with
+# systemctl disable nv-l4t-usb-device-mode.service
+#
+# if you have it enabled make sure that:
+# 1) you have no other usbX devices as they're not
+#    enumerated in a consistent order
+# 2) you comment out the usb0 entries below as trying to
+#    get a DHCP lease on it will stall
+#
+allow-hotplug usb0
+iface usb0 inet dhcp
+
+allow-hotplug usb1
+iface usb1 inet dhcp
+
+allow-hotplug usb2
+iface usb2 inet dhcp
+
+allow-hotplug usb3
+iface usb3 inet dhcp
+
+allow-hotplug usb4
+iface usb4 inet dhcp
+
+allow-hotplug eth0
+iface eth0 inet dhcp
+
+allow-hotplug eth1
+iface eth1 inet dhcp
+
+allow-hotplug eth2
+iface eth2 inet dhcp
+
+allow-hotplug eth3
+iface eth3 inet dhcp
+
+allow-hotplug eth4
+iface eth4 inet dhcp

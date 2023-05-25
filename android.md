@@ -6,23 +6,21 @@
 2. add custom repo and install nginx-rtmp
 ```
 echo "deb [trusted=yes] https://moo-the-cow.github.io/termux-nginx-rtmp/ termux extras" > $PREFIX/etc/apt/sources.list.d/nginx-rtmp.list
-apt get update
+apt update
 apt get upgrade
 apt install nginx-rtmp
 ```
 
 Install termux services to activate the nginx on termux startup
 ```
-apt install termux-services openssl-1.1
-ln -s $PREFIX/lib/openssl-1.1/libssl.so.1.1 $PREFIX/lib/libssl.so.1.1
-ln -s $PREFIX/lib/openssl-1.1/libcrypto.so.1.1 $PREFIX/lib/libcrypto.so.1.1
+apt install termux-services openssl
 sv-enable nginx
 sv up nginx
 ```
 
 Install additional belabox packages
 ```
-apt-get install gst-plugins-bad libgstreamer libgstreamer-plugins-base usb-modeswitch nano build-essential git tcl openssl ruby
+apt-get install gst-plugins-bad libgstreamer libgstreamer-plugins-base usb-modeswitch nano build-essential git tcl ruby
 ```
 
 srt

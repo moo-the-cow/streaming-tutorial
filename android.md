@@ -33,7 +33,7 @@ sv up nginx
 
 Install additional belabox packages
 ```sh
-apt-get install gst-plugins-bad libgstreamer libgstreamer-plugins-base usb-modeswitch nano build-essential git tcl openssl ruby
+apt-get install gst-plugins-bad gstreamer nano build-essential git tcl openssl ruby
 ```
 
 srt

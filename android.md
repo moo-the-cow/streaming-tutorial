@@ -13,7 +13,7 @@ apt install nginx-rtmp
 
 Install termux services to activate the nginx on termux startup
 ```sh
-apt install termux-services openssl-1.1
+apt install termux-services openssl-1.1 gettext
 ln -s $PREFIX/lib/openssl-1.1/libssl.so.1.1 $PREFIX/lib/libssl.so.1.1
 ln -s $PREFIX/lib/openssl-1.1/libcrypto.so.1.1 $PREFIX/lib/libcrypto.so.1.1
 ```

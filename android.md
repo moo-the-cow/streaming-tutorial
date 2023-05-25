@@ -62,14 +62,14 @@ make
 cd
 ```
 
+Some stuff for the belaUI in ruby
+```sh
+gem install sinatra sinatra-contrib thin puma falcon http webrick
+```
+
 belaUI
 ```sh
 git clone https://github.com/moo-the-cow/belaUI.git
 cd belaUI
-sudo ruby belaUI.rb -o 0.0.0.0 -p 8888
-```
-
-Some stuff for the belaUI in ruby
-```sh
-gem install sinatra sinatra-contrib thin puma falcon http webrick
+ruby belaUI.rb -o 0.0.0.0 -p 8888
 ```

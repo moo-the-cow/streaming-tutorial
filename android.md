@@ -4,6 +4,10 @@
 
 but the good thing is, that you do not need to have a rooted device.
 
+no h265 support. also you need to select the pipeline h264_rtmp_localhost_publish_live_30fps
+
+but better than nothing right? enjoy your bonded usb-network devices without any extra boards/devices
+
 1. Install Termux from https://play.google.com/store/apps/details?id=com.termux
 2. add custom repo and install nginx-rtmp
 ```sh

@@ -4,7 +4,7 @@
 
 but the good thing is, that you do not need to have a rooted device.
 
-no h265 support. also you need to select the pipeline h264_rtmp_localhost_publish_live_30fps
+no h265 support. also you need to select the pipeline android_h264_rtmp_localhost_publish_live
 
 but better than nothing right? enjoy your bonded usb-network devices without any extra boards/devices
 

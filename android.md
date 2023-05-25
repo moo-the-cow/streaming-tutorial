@@ -2,6 +2,8 @@
 
 *Disclaimer this is for Devs because you have to use termux and shell commands*
 
+but the good thing is, that you do not need to have a rooted device.
+
 1. Install Termux from https://play.google.com/store/apps/details?id=com.termux
 2. add custom repo and install nginx-rtmp
 ```sh

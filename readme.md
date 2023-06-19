@@ -1,4 +1,4 @@
-MAIN CREDIT FOR SRT BONDING GOES TO HAIVISION https://github.com/Haivision and then to belabox https://github.com/BELABOX
+MAIN CREDIT FOR SRT BONDING GOES TO HAIVISION https://github.com/Haivision (https://github.com/Haivision/srt/blob/master/docs/features/bonding-quick-start.md) and then to belabox using it for ubuntu 20.04 using their bonding technology https://github.com/BELABOX
 
 Table of Content
 =====================

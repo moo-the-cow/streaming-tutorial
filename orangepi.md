@@ -23,3 +23,6 @@ and in your phone using the url `srt:[ip]:1936/publish/live/test` (publish/live/
 + Setup Wifi on UI
 device is autodetected when you plug it it (wlan usb-dongle). you can set it up in the UI. it will only work if you fill all the fields for the device that is detected
 + Export and Import your configuration (for example if you flash your image for backup)
+
+Soon coming:
++ Change the name of your Networking Device (modem) and save it permanently. On Ubuntu 22.04 the devices have unique IDs so this works unlike on the jetson

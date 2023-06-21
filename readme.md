@@ -17,4 +17,4 @@ Table of Content
 *orange pi 5 image has a new pipeline using an SRT server so you can use h265 for better quality instead of h264 to the old local rtmp server*
 `h265_srt_localhost_publish_live`
 
-A lot more features have been added. I will update the tutorial very soon. Meanwhile some of them are described on [Orange Pi 5 Setup](orangepi.md)
+A lot more features have been added. some of them are described on [Orange Pi 5 Setup](orangepi.md)

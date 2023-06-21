@@ -8,12 +8,11 @@ Either plug-in a keyboard and a monitor (via hdmi) or do the setup via ssh (usua
 ## Login and Create User
 default login `moo` password `moothecow`
 
-## belabox images
-### Access belaUI
+### Access moowss-client UI
 enter http://[hostname/ip]/ in your browser
+hostname can be orangepi5 or orangepi5plus, but it depends on your router to broadcast those names
 ### use H265 local SRT via phone (larix/irl pro)
-just connect your stream in h265 encoding selecting the proper pipeline in the belaUI
-
+just connect your stream in h265 encoding selecting the proper pipeline in the UI
 and in your phone using the url `srt:[ip]:1936/publish/live/test` (publish/live/test being the streamid)
-### Setup Wifi on BelaUI
+### Setup Wifi on UI
 device is autodetected when you plug it it (wlan usb-dongle). you can set it up in the UI. it will only work if you fill all the fields for the device that is detected

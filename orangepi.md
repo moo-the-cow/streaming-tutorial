@@ -5,7 +5,7 @@ download either an SD image or an USB image see [Streaming Images](https://githu
 Write Image via Balena Etcher https://www.balena.io/etcher on sdcard 
 ## Preparation
 Either plug-in a keyboard and a monitor (via hdmi) or do the setup via ssh (usually getting the hostname "orangepi5") or check your router to get the IP
-## Login and Create User
+## Login to Terminal
 default login `moo` password `moothecow`
 
 ### Access moowss-client UI

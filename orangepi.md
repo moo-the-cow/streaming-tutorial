@@ -30,4 +30,6 @@ Soon coming:
 Screenshots
 ![grafik](https://github.com/moo-the-cow/streaming-tutorial/assets/34907770/9759133a-ffc3-46d7-b6b3-3dd6c5bbfd52)
 ![grafik](https://github.com/moo-the-cow/streaming-tutorial/assets/34907770/444a96b0-cc83-4393-aa61-6a3a3d5dd17f)
+<div style="width: 60%;">
 ![grafik](https://github.com/moo-the-cow/streaming-tutorial/assets/34907770/360ec161-774e-40c5-95e0-b702c4d1e4c9)
+</div>

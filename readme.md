@@ -9,7 +9,6 @@ Table of Content
 ## you might also wanna check out related projects:
 + [sdcard and usb images](https://github.com/moo-the-cow/Streaming-Images): for jetson nano and orange pi 5 at the moment
 + [moobs-studio](https://github.com/moo-the-cow/moobs-studio): Docker linux container for OBS Studio (nvidia GPU enabled) for cloud and selfhosting
-+ [moobs](https://github.com/moo-the-cow/moobs): bot for obs websocket and twitch (and more => see wiki)
 + [streaming](https://github.com/moo-the-cow/streaming): SRTLA-RECEIVER and SRTLA-NGINX for cloud and self hosting
 
 # Announcement

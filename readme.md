@@ -1,4 +1,4 @@
-MAIN CREDIT FOR SRT BONDING GOES TO HAIVISION https://github.com/Haivision (https://github.com/Haivision/srt/blob/master/docs/features/bonding-quick-start.md) and then to belabox using it for ubuntu 18.04 using their bonding technology https://github.com/BELABOX
+MAIN CREDIT FOR SRT BONDING GOES TO HAIVISION https://github.com/Haivision (https://github.com/Haivision/srt/blob/master/docs/features/bonding-quick-start.md) and then to belabox using their outdated unmodified binaries srtla_send and belacoder https://github.com/BELABOX/belacoder https://github.com/BELABOX/srtla
 
 Table of Content
 =====================
